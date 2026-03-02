@@ -1,0 +1,1 @@
+-- Baseline migration: Database schema already exists
